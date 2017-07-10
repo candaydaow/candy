@@ -1,2 +1,2 @@
 # candy
-my first demo
+my first demo for Chilindo front end test
